@@ -2,7 +2,7 @@
 
 -This Website is made by HTML,CSS and BOOTSTRAP
 # Demo
-- 
+- https://niloycsejnu.github.io/Ostad/
   
 # Features
 - Fully Responsive
